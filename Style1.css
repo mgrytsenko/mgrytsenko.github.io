@@ -1,0 +1,50 @@
+h1{
+	color: DodgerBlue;
+	text-align: center;
+	text-align: top;
+	text-shadow: 3px 3px 5px DarkBlue;
+	font-size: 60;
+}
+h2{
+	color: LimeGreen;
+	text-align: center;
+	text-align: top;
+	text-shadow: 2px 2px 4px SpringGreen;
+	font-size: 60;
+}
+h3{
+	color: black;
+	text-align: center;
+	text-align: top;
+	text-shadow: 2px 2px 6px white;
+	font-size: 60;
+}
+body{
+    background-image: url("https://habrastorage.org/files/42e/d6b/a3b/42ed6ba3b1c34698880272577a2a06dc.jpg"); 
+     }
+a{
+   font-size:16px; 
+   color:red; 
+}
+a:hover {
+	font-size:16px; 
+	color:red; 
+	font-weight:bold
+}
+p {
+	font-size:25pt;
+	color:Black;
+	text-align: center;
+}
+dt{
+	color:Blue;
+	font-size: 20pt;
+}
+dd{
+	color:Black;
+	font-size: 18pt;
+}
+img{
+	width: 270px;
+	height: 180px;
+}
